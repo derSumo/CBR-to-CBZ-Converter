@@ -6,5 +6,5 @@ Ein Programm was Dateien die in cbr gepackt sind in cbz komplett automatisch kon
 
 
 # Info
-> Windows Only
-> Unrar wird benötigt.
+- Windows Only
+- Unrar wird benötigt.
